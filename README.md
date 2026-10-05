@@ -1,6 +1,6 @@
 # E-Commerce AI Support Chatbot ("Sonny")
 
-**🔴 Live Demo:** [Click here to chat with the AI](insert-your-surviving-replit-link-here)
+**🔴 Live Demo:** [Click here to chat with the AI](https://cdn.botpress.cloud/webchat/v3.3/shareable.html?configUrl=https://files.bpcontent.cloud/2025/10/25/15/20251025151933-VW4DCSN5.json)
 
 *Note: The original backend source code was lost during a cloud environment deprecation on Replit. This repository serves to showcase the functioning live deployment, system architecture, and technical methodologies used to build the pipeline.*
 
