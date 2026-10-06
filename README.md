@@ -12,7 +12,7 @@ Developed "Sonny," an intelligent AI customer support chatbot for a fictional e-
 * **Languages:** JavaScript (utilized within Botpress 'Execute Code' cards)
 * **Databases:** Table Database (for structured data like shipping statuses and user records)
 * **Methodologies:** Text Similarity Algorithms, Retrieval-Augmented Generation (RAG), Modular Workflow Design
-* **LLM Integration:** [Insert the specific LLM you used, e.g., OpenAI GPT-3.5 API / Llama / Gemini]
+* **LLM Integration:** OpenAI GPT-3.5 API
 
 ## System Architecture & Logic
 
